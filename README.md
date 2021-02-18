@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weeezik
-- 👀 I’m interested in audio technology and neuroscience (and rap). 
-- 🌱 I’m currently learning too much biology (it is the poor mans chemistry). 
-- 💞️ I’m looking to collaborate on anything, but I have un peu experience. 
+- 👀 I’m interested in...audio technology and neuroscience (and rap). 
+- 🌱 I’m currently learning...too much biology (it is the poor mans chemistry). 
+- 💞️ I’m looking to collaborate on...anything, but (warning) I have un peu experience. 
 - 📫 Reach me!
 
 <!---
