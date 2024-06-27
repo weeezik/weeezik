@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @weeezik
-- 👀 I’m interested in...audio technology and neuroscience (and rap). 
-- 🔺 I’m currently learning...Javascript and Ruby
+- 👋 Hi, I’m Michael.
+- 👀 I’m interested in...audio technology and neuroscience. 
+- 🔺 I’m currently learning...Ruby, Ruby on Rails, and Javascript.
