@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Michael.
-- 👀 I’m interested in...audio technology and neuroscience. 
-- 🔺 I’m currently learning...Ruby, Ruby on Rails, and Javascript.
+- 👀 I’m interested in...audio technology, music, neuroscience, and surfing. 
+- 🔺 I’m currently learning...Ruby, Ruby on Rails, and Javascript. 
